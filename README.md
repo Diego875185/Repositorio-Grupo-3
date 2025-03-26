@@ -1,5 +1,5 @@
 # Definir el contenido del archivo README.md con la inclusión del grupo
-readme_content = """
+
 # Proyecto de Fundamentos de Biodiseño - 4to Ciclo de Ingeniería Biomédica
 
 ## Grupo 3
