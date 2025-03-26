@@ -12,7 +12,7 @@ Este repositorio contiene el proyecto realizado por el **Grupo 3** de estudiante
    - **Rol**: Eletronica y Modelado en 3D
    - **Responsabilidades**:
      - Diseño 3D y vista explosiva
-     - Desarrollo de Sofware Cura y Impresion 3D
+     - Desarrollo en Sofware Cura y Impresion 3D
      - Apoyar en el desarrollo del sistema electronico
 
 ### 2. Iara Yrene Salas Gutirrez
@@ -31,49 +31,16 @@ Este repositorio contiene el proyecto realizado por el **Grupo 3** de estudiante
      - Gestionar la planificación y ejecución de experimentos.
      - Liderar y coordinar el equipo de investigación..
 
-### 4. **Nombre del Estudiante 4**
-   - **Rol**: Responsable de Validación y Pruebas
+### 4. **Victor Huaccha**
+   - **Rol**: Electronico y programación
    - **Responsabilidades**:
-     - Diseño y ejecución de pruebas de validación del prototipo.
-     - Análisis de los resultados obtenidos en las pruebas.
+     - Diseño y ejecución de pruebas de programación.
+     - Apoyo en la implementación electronica.
      - Ajuste del prototipo según los resultados de las pruebas.
 
-### 5. **Nombre del Estudiante 5**
-   - **Rol**: Documentación y Presentación
+### 5. **Diego Lopez**
+   - **Rol**: Gestor de github e investigador 
    - **Responsabilidades**:
-     - Elaboración de la documentación técnica del proyecto.
+     - Organización y cumplimiento de metas para el equipo.
      - Preparación de presentaciones y reportes.
      - Coordinación de la entrega final y presentación del proyecto.
-
-## Objetivos del Proyecto
-
-- [Objetivo 1]
-- [Objetivo 2]
-- [Objetivo 3]
-
-## Tecnologías Utilizadas
-
-- [Tecnología 1]
-- [Tecnología 2]
-- [Tecnología 3]
-
-## Enlaces de Interés
-
-- [Repositorio Principal](URL_del_repositorio)
-- [Documentación Técnica](URL_documentacion)
-- [Investigación y Fuentes](URL_fuentes)
-
-## Instrucciones de Uso
-
-Para comenzar con el proyecto, sigue las siguientes instrucciones:
-
-1. Clona este repositorio.
-2. Instala las dependencias necesarias.
-3. Sigue las instrucciones para ejecutar el prototipo o realizar pruebas.
-"""
-
-# Crear el archivo README.md y escribir el contenido
-with open("README.md", "w", encoding="utf-8") as file:
-    file.write(readme_content)
-
-print("El archivo README.md ha sido creado exitosamente.")
