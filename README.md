@@ -2,7 +2,7 @@
 
 # Proyecto de Fundamentos de Biodiseño - 4to Ciclo de Ingeniería Biomédica
 
-## Grupo 3
+## Equipo 3
 
 Este repositorio contiene el proyecto realizado por el **Grupo 3** de estudiantes de 4to ciclo de la carrera de Ingeniería Biomédica en la asignatura **Fundamentos de Biodiseño**. El objetivo de este proyecto es abordar un desafío relacionado con el diseño de dispositivos biomédicos, aplicando los principios y conocimientos adquiridos durante el curso.
 
