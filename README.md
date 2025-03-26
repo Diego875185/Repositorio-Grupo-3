@@ -8,7 +8,7 @@ Este repositorio contiene el proyecto realizado por el **Grupo 3** de estudiante
 
 ## Integrantes del Equipo y Roles
 
-### 1. **Nombre del Estudiante 1**
+### 1. **Luis Isla**
    - **Rol**: Líder de Proyecto
    - **Responsabilidades**:
      - Coordinación general del proyecto.
