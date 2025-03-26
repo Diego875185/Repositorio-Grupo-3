@@ -16,12 +16,13 @@ Este repositorio contiene el proyecto realizado por el **Grupo 3** de estudiante
      - Comunicación con los profesores y otros stakeholders.
      - Revisión final del proyecto antes de la entrega.
 
-### 2. **Nombre del Estudiante 2**
-   - **Rol**: Diseñador de Prototipos
+### 2. Iara Yrene Salas Gutirrez
+   - **Rol**: Diseñador de Prototipos y modelador en 3D
    - **Responsabilidades**:
      - Diseño conceptual y estructural del dispositivo.
      - Creación de bocetos y prototipos.
      - Colaboración en la selección de materiales adecuados.
+     - Elaboración del prototipado en programas de modelación en 3D.
      - Realización de pruebas iniciales de diseño.
 
 ### 3. Stefany Nicole Palomino Torres 
