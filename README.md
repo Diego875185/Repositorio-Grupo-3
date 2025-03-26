@@ -24,12 +24,12 @@ Este repositorio contiene el proyecto realizado por el **Grupo 3** de estudiante
      - Colaboración en la selección de materiales adecuados.
      - Realización de pruebas iniciales de diseño.
 
-### 3. **Nombre del Estudiante 3**
-   - **Rol**: Investigador de Tecnologías Biomédicas
+### 3. Stefany Nicole Palomino Torres 
+   - **Rol**: Investigadora y coordinadora general 
    - **Responsabilidades**:
-     - Investigación sobre las tecnologías biomédicas actuales relacionadas con el proyecto.
-     - Análisis de la viabilidad técnica de diferentes soluciones.
-     - Proponer mejoras tecnológicas y de innovación.
+     - Investigar tendencias y avances recientes.
+     - Gestionar la planificación y ejecución de experimentos.
+     - Liderar y coordinar el equipo de investigación.
 
 ### 4. **Nombre del Estudiante 4**
    - **Rol**: Responsable de Validación y Pruebas
