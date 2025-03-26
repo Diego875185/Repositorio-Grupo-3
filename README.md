@@ -9,12 +9,11 @@ Este repositorio contiene el proyecto realizado por el **Grupo 3** de estudiante
 ## Integrantes del Equipo y Roles
 
 ### 1. **Luis Isla**
-   - **Rol**: Líder de Proyecto
+   - **Rol**: Eletronica y Modelado en 3D
    - **Responsabilidades**:
-     - Coordinación general del proyecto.
-     - Supervisión del avance de cada miembro del equipo.
-     - Comunicación con los profesores y otros stakeholders.
-     - Revisión final del proyecto antes de la entrega.
+     - Diseño 3D y vista explosiva
+     - Desarrollo de Sofware Cura y Impresion 3D
+     - Apoyar en el desarrollo del sistema electronico
 
 ### 2. Iara Yrene Salas Gutirrez
    - **Rol**: Diseñador de Prototipos y modelador en 3D
