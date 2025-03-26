@@ -29,7 +29,7 @@ Este repositorio contiene el proyecto realizado por el **Grupo 3** de estudiante
    - **Responsabilidades**:
      - Investigar tendencias y avances recientes.
      - Gestionar la planificación y ejecución de experimentos.
-     - Liderar y coordinar el equipo de investigación.
+     - Liderar y coordinar el equipo de investigación..
 
 ### 4. **Nombre del Estudiante 4**
    - **Rol**: Responsable de Validación y Pruebas
