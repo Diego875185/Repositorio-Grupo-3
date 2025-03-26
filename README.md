@@ -31,34 +31,16 @@ Este repositorio contiene el proyecto realizado por el **Grupo 3** de estudiante
      - Gestionar la planificación y ejecución de experimentos.
      - Liderar y coordinar el equipo de investigación..
 
-### 4. **Nombre del Estudiante 4**
-   - **Rol**: Responsable de Validación y Pruebas
+### 4. **Victor Huaccha**
+   - **Rol**: Programador y electronico 
    - **Responsabilidades**:
-     - Diseño y ejecución de pruebas de validación del prototipo.
-     - Análisis de los resultados obtenidos en las pruebas.
+     - Diseño y ejecución del programa.
+     - Creación y ajustes del sistema electronico.
      - Ajuste del prototipo según los resultados de las pruebas.
 
-### 5. **Nombre del Estudiante 5**
-   - **Rol**: Documentación y Presentación
+### 5. **Diego Lopez**
+   - **Rol**: Gestión GitHub e Investigador
    - **Responsabilidades**:
-     - Elaboración de la documentación técnica del proyecto.
+     - Gestión y cumpliento de metas del equipo.
      - Preparación de presentaciones y reportes.
      - Coordinación de la entrega final y presentación del proyecto.
-
-## Objetivos del Proyecto
-
-- [Objetivo 1]
-- [Objetivo 2]
-- [Objetivo 3]
-
-## Tecnologías Utilizadas
-
-- [Tecnología 1]
-- [Tecnología 2]
-- [Tecnología 3]
-
-## Enlaces de Interés
-
-- [Repositorio Principal](URL_del_repositorio)
-- [Documentación Técnica](URL_documentacion)
-- [Investigación y Fuentes](URL_fuentes)
