@@ -18,6 +18,7 @@ Tengo 20 años, me gusta los deportes como el atletismo, levantamiento de pesas 
      - Apoyar en el desarrollo del sistema electronico
 
 ### 2. Iara Yrene Salas Gutirrez
+Tengo 19 años, disfruto mucho realizar actividades como dibujar, pintar y todo lo relacionado a decorar. Considero que esta parte creativa me ayudó a elegir esta carrera y que aportará mucho en el desarrollo de futuros proyectos.
    - **Rol**: Diseñador de Prototipos y modelador en 3D
    - **Responsabilidades**:
      - Diseño conceptual y estructural del dispositivo.
