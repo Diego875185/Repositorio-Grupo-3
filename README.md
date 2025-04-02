@@ -52,6 +52,7 @@ Tengo 24 años, interesado en realizar cambios favorables a la medicina con la t
 
 ### 5. **Diego Lopez**
 ![image](https://github.com/user-attachments/assets/e91caf96-785e-41ea-a626-e0f46191c2e1)
+
 Tengo 18 años, apasionado por los deportes y la guitarra. Elegi estudiar ingenieria biomédica por el interés que me genera el apartado de ingenieria de tejidos y entre otras partes que conllevan a la investigación y futuro de la medicina.
    - **Rol**: Gestión GitHub e Investigador
    - **Responsabilidades**:
