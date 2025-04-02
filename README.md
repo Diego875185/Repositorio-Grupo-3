@@ -17,7 +17,10 @@ Tengo 20 años, me gusta los deportes como el atletismo, levantamiento de pesas 
      - Desarrollo de Sofware Cura y Impresion 3D
      - Apoyar en el desarrollo del sistema electronico
 
-### 2. Iara Yrene Salas Gutirrez
+### 2. Iara Yrene Salas Gutierrez
+
+![WhatsApp Image 2025-04-01 at 8 25 25 PM](https://github.com/user-attachments/assets/30873497-b93c-4982-9c45-41c9dd879d02)
+
 Tengo 19 años, disfruto mucho realizar actividades como dibujar, pintar y todo lo relacionado a decorar. Considero que esta parte creativa me ayudó a elegir esta carrera y que aportará mucho en el desarrollo de futuros proyectos.
    - **Rol**: Diseñador de Prototipos y modelador en 3D
    - **Responsabilidades**:
