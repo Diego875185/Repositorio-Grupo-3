@@ -2,8 +2,7 @@
 # Taller Conectividad - Entregable
 
 ## Video
-
-[Accede al video aquí](https://drive.google.com/drive/folders/1kQbGcQggX_dJ9MZODlcUFFMYbY-TXhCq?usp=sharing)
+https://github.com/user-attachments/assets/e04d46ac-23f1-4e2a-8426-9f9c66f6da63
 
 ## Capturas de pantalla
 ![Imagen de WhatsApp 2025-05-24 a las 15 18 52_8e433ea7](https://github.com/user-attachments/assets/2f663322-8390-40ff-b4d8-64225821a3da)
