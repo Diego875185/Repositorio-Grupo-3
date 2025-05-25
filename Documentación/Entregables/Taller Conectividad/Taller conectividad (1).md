@@ -6,10 +6,10 @@
 [Accede al video aquí](https://drive.google.com/drive/folders/1kQbGcQggX_dJ9MZODlcUFFMYbY-TXhCq?usp=sharing)
 
 ## Capturas de pantalla
+![Imagen de WhatsApp 2025-05-24 a las 15 18 52_8e433ea7](https://github.com/user-attachments/assets/2f663322-8390-40ff-b4d8-64225821a3da)
+![Imagen de WhatsApp 2025-05-24 a las 15 19 21_a030f30c](https://github.com/user-attachments/assets/b143564f-5856-4c43-a567-9aaec40d530e)
 
-![Captura 1](Imagen%20de%20WhatsApp%202025-05-24%20a%20las%2015.18.52_fb74b193.jpg)
 
-![Captura 2](Imagen%20de%20WhatsApp%202025-05-24%20a%20las%2015.19.21_865f6819.jpg)
 
 ## Código `.ino` comentado
 
