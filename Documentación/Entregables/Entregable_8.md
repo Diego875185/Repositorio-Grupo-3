@@ -1,4 +1,4 @@
-# Entregable 8
+![image](https://github.com/user-attachments/assets/dee03e85-b0e0-4987-820f-755af33b84b5)# Entregable 8
 
 ## Prototipo de Dispositivo en el Tobillo
 
@@ -36,8 +36,7 @@ En esta vista se puede observar la estructura general del dispositivo, que compr
 
 Aquí se destaca la posible ubicación del sensor de flexión (Flex Sensor) a nivel anterior del tobillo, que permitirá medir los ángulos de dorsiflexión durante la fase de marcha.  
 La colocación estratégica busca registrar el movimiento sin interferir con la comodidad ni con el calzado. Se ha dejado un espacio en la férula que facilite su integración mediante una pequeña ranura o encapsulado.
-![Uploading image.png…]()
-
+![image](https://github.com/user-attachments/assets/303f3dc7-fd6d-4648-8894-9ade123d1c2c)
 > **Figura 2.** Integración propuesta de sensor de flexión en el empeine para monitoreo del ángulo de dorsiflexión durante la marcha.
 
 ---
@@ -46,8 +45,7 @@ La colocación estratégica busca registrar el movimiento sin interferir con la 
 
 Esta imagen muestra el costado lateral donde se plantea ubicar un microcontrolador Arduino Nano, que permitirá recolectar datos desde los sensores y eventualmente controlar actuadores o ESP32.  
 Su ubicación fuera del rango de movimiento articular busca evitar interferencias biomecánicas, y se reserva una cavidad que facilitará la protección del circuito con un encapsulado resistente al sudor y humedad.
-![Uploading image.png…]()
-
+![image](https://github.com/user-attachments/assets/2b636114-f2ea-48f8-9080-c92892f26b45)
 > **Figura 3.** Propuesta de ubicación lateral del microcontrolador (Arduino Nano).
 
 ---
