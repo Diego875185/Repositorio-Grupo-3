@@ -26,6 +26,7 @@
 ### Vista 1: Vista oblicua anterolateral
 
 En esta vista se puede observar la estructura general del dispositivo, que comprende una superficie tipo férula que envuelve el tobillo-pie y se extiende hacia la pantorrilla. Se ha simulado el uso de materiales ligeros y resistentes como TPE o TPU, anticipando una futura fabricación mediante impresión 3D.
+![image](https://github.com/user-attachments/assets/f45f1578-5bac-4680-abef-2dff9cdfb026)
 
 > **Figura 1.** Boceto físico de órtesis en vista oblicua anterolateral.
 
@@ -35,6 +36,7 @@ En esta vista se puede observar la estructura general del dispositivo, que compr
 
 Aquí se destaca la posible ubicación del sensor de flexión (Flex Sensor) a nivel anterior del tobillo, que permitirá medir los ángulos de dorsiflexión durante la fase de marcha.  
 La colocación estratégica busca registrar el movimiento sin interferir con la comodidad ni con el calzado. Se ha dejado un espacio en la férula que facilite su integración mediante una pequeña ranura o encapsulado.
+![Uploading image.png…]()
 
 > **Figura 2.** Integración propuesta de sensor de flexión en el empeine para monitoreo del ángulo de dorsiflexión durante la marcha.
 
@@ -44,6 +46,7 @@ La colocación estratégica busca registrar el movimiento sin interferir con la 
 
 Esta imagen muestra el costado lateral donde se plantea ubicar un microcontrolador Arduino Nano, que permitirá recolectar datos desde los sensores y eventualmente controlar actuadores o ESP32.  
 Su ubicación fuera del rango de movimiento articular busca evitar interferencias biomecánicas, y se reserva una cavidad que facilitará la protección del circuito con un encapsulado resistente al sudor y humedad.
+![Uploading image.png…]()
 
 > **Figura 3.** Propuesta de ubicación lateral del microcontrolador (Arduino Nano).
 
