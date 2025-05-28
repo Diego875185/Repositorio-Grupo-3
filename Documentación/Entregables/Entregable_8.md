@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/dee03e85-b0e0-4987-820f-755af33b84b5)# Entregable 8
+# Entregable 8
 
 ## Prototipo de Dispositivo en el Tobillo
 
