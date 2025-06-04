@@ -6,7 +6,9 @@
 
 #### Diagrama o Esquema Electrónico del concepto de solución
 
----
+![Diagrama o Esquema Electrónico del concepto de solución](https://github.com/user-attachments/assets/b2b33c96-a473-46ca-9582-835aea2c76dd)
+
+
 
 ### Modelado 3D de los componentes por separado
 
