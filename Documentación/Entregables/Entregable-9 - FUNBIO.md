@@ -15,24 +15,25 @@
 **Componentes Usados:**
 
 1. **ESP32-C3_super_mini**
-![Fig 1. ESP32-C3_super_mini](https://cad.onshape.com/documents/ce81d49bafa29a08250b3f22/w/b03524b973b92b4e490c6ecf/e/e93e635cb1dd3eddc65e96ff)
+![Fig 1  Modelado 3D de ESP32-C3_super_mini](https://github.com/user-attachments/assets/c354f6ca-dc43-4699-9e2b-ee011881f97d)
+https://cad.onshape.com/documents/ce81d49bafa29a08250b3f22/w/b03524b973b92b4e490c6ecf/e/e93e635cb1dd3eddc65e96ff
 
-2. **Sensor Flex 2.2**
+3. **Sensor Flex 2.2**
 ![Fig 2. Sensor Flex](https://cad.onshape.com/documents/2dc236ed0d6c27e83bf05a2b/w/d6020055e9340973765e3eaf/e/1c950a83be18c610346fe7ef)
 
-3. **Jumper**
+4. **Jumper**
 ![Fig 3. Jumper wire](https://cad.onshape.com/documents/9471d622ad177163d15dabd8/w/df04961174a177b7195e1b82/e/57da9c1b01cedaf2bfabdf5e)
 
-4. **Resistencia**
+5. **Resistencia**
 ![Fig 4. Resistencia](https://cad.onshape.com/documents/efc89a1b61902efcb28e52aa/w/260c49f4ddafdeba26f59524/e/900798ce3f0f07300defbd3a)
 
-5. **Batería 3.7V**
+6. **Batería 3.7V**
 ![Fig 5. Batería 3.7V](https://cad.onshape.com/documents/17242942676d03fcc4f53d6e/w/8211794d506e266c055f0229/e/5a9f2a83bdee71de8a6b0cde)
 
-6. **Interruptor**
+7. **Interruptor**
 ![Fig 6. Interruptor](https://cad.onshape.com/documents/72e807459ca806feacbc4f17/w/5781071d8e1426e0fe261ed9/e/1fb5a2098d9844dcd143726e)
 
-7. **LED**
+8. **LED**
 ![Fig 7. LED](https://cad.onshape.com/documents/a4012a020b680eb93a05f0c1/w/d2041a5e80db500b22944d15/e/731c16ba2fb6be4502b85d06)
 
 ---
