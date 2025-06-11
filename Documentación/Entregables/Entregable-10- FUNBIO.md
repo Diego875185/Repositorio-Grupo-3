@@ -1,19 +1,24 @@
 **Entregable 10**
 
 **Hardware electrónico:**   
-**![][image1]**  
+![Hardware electronico](https://github.com/user-attachments/assets/52f82cfe-10c7-4a2f-8068-ba419bebfa75)
+
     *Figura 1\. “Sistema  para la concientización de dorsiflexión en miembro inferior”*
 
 **Fabricación digital:**   
+![Base solida](https://github.com/user-attachments/assets/3e6204e4-e4d4-46f4-9b10-10562352a314)
+
                               *Figura 2\. “Ortesis para la dorsiflexión”*
+(https://cad.onshape.com/documents/e35a060946354387f64357ca/w/085474597b28fe265d1e84da/e/2d7a034012ec083f3a65b03c) 
 
-[*https://cad.onshape.com/documents/e35a060946354387f64357ca/w/085474597b28fe265d1e84da/e/2d7a034012ec083f3a65b03c*](https://cad.onshape.com/documents/e35a060946354387f64357ca/w/085474597b28fe265d1e84da/e/2d7a034012ec083f3a65b03c) 
-
+![Caja de componenetes](https://github.com/user-attachments/assets/2d3491bd-ccae-4e24-bfdc-b28037d31097)
+                             *Figura 3\. “Caja de componentes”*
 **Plan de usabilidad:** 
 
 1. **Contexto de uso:** 
 
 Paciente de 28 años con lesión medular L3. Usa el dispositivo en casa durante su rehabilitación, apoyado con bastones. La órtesis mide la dorsiflexión y envía la retroalimentación al led que se ubicará en el falange del dedo gordo. El sistema está diseñado para personas con pie caído y movilidad reducida en miembros inferiores, permitiendo monitoreo funcional durante su rehabilitación. La órtesis dinámica integra un sensor flex controlado por Arduino Nano y un led que muestra en tiempo real si se ejecuta la dorsiflexión, facilitando una retroalimentación accesible y útil para el usuario.
+![Imagen](https://github.com/user-attachments/assets/b2301199-9c43-4dc5-b660-28bedf2b607d)
 
 2. **Perfil de usuario:** 
 
