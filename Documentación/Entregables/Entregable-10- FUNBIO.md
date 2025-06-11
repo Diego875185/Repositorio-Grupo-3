@@ -13,6 +13,7 @@
 
 ![Caja de componenetes](https://github.com/user-attachments/assets/2d3491bd-ccae-4e24-bfdc-b28037d31097)
                              *Figura 3\. “Caja de componentes”*
+https://cad.onshape.com/documents/a83415cc5c371f049108b772/w/01ea987c8cc30068064514d9/e/146973291dddd337e3d2ddd8
 **Plan de usabilidad:** 
 
 1. **Contexto de uso:** 
