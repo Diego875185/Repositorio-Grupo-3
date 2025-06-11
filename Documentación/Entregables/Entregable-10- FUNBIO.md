@@ -6,11 +6,10 @@
     *Figura 1\. “Sistema  para la concientización de dorsiflexión en miembro inferior”*
 
 **Fabricación digital:**   
-![Base solida](https://github.com/user-attachments/assets/3e6204e4-e4d4-46f4-9b10-10562352a314)
+![Imagen](https://github.com/user-attachments/assets/30cdb837-7f9d-4d27-a300-c95cf8fb9417)
 
                               *Figura 2\. “Ortesis para la dorsiflexión”*
-(https://cad.onshape.com/documents/e35a060946354387f64357ca/w/085474597b28fe265d1e84da/e/2d7a034012ec083f3a65b03c) 
-
+https://cad.onshape.com/documents/e6c88ba321df5af812fc3268/w/1e24d2402b8d2fbcff74ae24/e/48c0a64cd81ee4e0165c849b?renderMode=0&uiState=6849869b36c0874ac6fe03bc
 ![Caja de componenetes](https://github.com/user-attachments/assets/2d3491bd-ccae-4e24-bfdc-b28037d31097)
 
                              *Figura 3\. “Caja de componentes”*
