@@ -17,7 +17,7 @@ Enlaces del sistema Boa: [https://cad.onshape.com/documents/e58e8a55fc149e5d00bf
 
 ![][image4]  https://cad.onshape.com/documents/e58e8a55fc149e5d00bfb3bc/w/d5590ee43dfd842789ada484/e/e6e5789825d7913faa3f5654
 	Fig 4\. Dibujo técnico (2D) con medidas de la caja  
-![][image5]  
+![][image5]  https://cad.onshape.com/documents/520f2642f208f22d50ffe846/w/a71e20f9b2a8faa7ce8cd8f7/e/6453d4b09d56326cf9aad253
 Fig 5\. Dibujo técnico (2D) con medidas de la tapa
 
 **Avance de Fabricación Digital:**  
