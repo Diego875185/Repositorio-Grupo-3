@@ -12,11 +12,11 @@ Enlaces del sistema Boa: [https://cad.onshape.com/documents/e58e8a55fc149e5d00bf
 		Fig 2\. Dibujo técnico (2D) con medidas del Sistema Boa:
 
 2\. Caja y tapa:  
-![][image3]  
+![][image3]  https://pucp2871.autodesk360.com/g/projects/20250529933141326/data/dXJuOmFkc2sud2lwcHJvZDpmcy5mb2xkZXI6Y28ua1doeVNLdGNUWG1ZRmlnaU1ub0hSdw/dXJuOmFkc2sud2lwcHJvZDpkbS5saW5lYWdlOkJNYjVuNEZVUlpxSnduaXozbW9jbnc/overview
 			Fig 3\. Caja con Prototipado
 
-![][image4]  
-	Fig 4\. Dibujo técnico (2D) con medidas de la tapa  
+![][image4]  https://cad.onshape.com/documents/e58e8a55fc149e5d00bfb3bc/w/d5590ee43dfd842789ada484/e/e6e5789825d7913faa3f5654
+	Fig 4\. Dibujo técnico (2D) con medidas de la caja  
 ![][image5]  
 Fig 5\. Dibujo técnico (2D) con medidas de la tapa
 
