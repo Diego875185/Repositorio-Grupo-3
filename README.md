@@ -2,6 +2,12 @@
 
 ![funbio grupo 3](https://github.com/user-attachments/assets/a00fd76c-2a88-4877-ac32-5d024b8ab318)
 
+---
+
+## 📸 Equipo 3 
+
+<img src="./foto_grupo_funbio.jpeg" alt="Foto del equipo FUNBIO" width="600"/>
+ 
 ## 🎓 Equipo 3 – Fundamentos de Biodiseño
 
 Este repositorio contiene el proyecto realizado por el **Grupo 3** de estudiantes del **4.º ciclo de Ingeniería Biomédica** para el curso **Fundamentos de Biodiseño**.  
