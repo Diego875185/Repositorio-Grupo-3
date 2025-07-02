@@ -6,9 +6,9 @@
 
 ## 📸 Equipo 3 
 
-<img src="./foto_grupo_funbio.jpeg" alt="Foto del equipo FUNBIO" width="600"/>
+![WhatsApp Image 2025-07-01 at 4 47 15 PM](https://github.com/user-attachments/assets/ef29719b-30b1-4757-a2e3-283ffd24462a)
  
-## 🎓 Equipo 3 – Fundamentos de Biodiseño
+## 🎓 Descripción del Equipo - Fundamentos de Biodiseño
 
 Este repositorio contiene el proyecto realizado por el **Grupo 3** de estudiantes del **4.º ciclo de Ingeniería Biomédica** para el curso **Fundamentos de Biodiseño**.  
 Nuestro objetivo fue resolver un desafío real mediante el diseño y desarrollo de un dispositivo biomédico, aplicando conocimientos en electrónica, modelado 3D, investigación y prototipado.
