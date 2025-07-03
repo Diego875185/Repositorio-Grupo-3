@@ -6,7 +6,9 @@
 
 ## 📸 Equipo 3 
 
-![WhatsApp Image 2025-07-01 at 4 47 15 PM](https://github.com/user-attachments/assets/ef29719b-30b1-4757-a2e3-283ffd24462a)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ef29719b-30b1-4757-a2e3-283ffd24462a" alt="Foto grupal FUNBIO" width="450"/>
+</p>
  
 ## 🎓 Descripción del Equipo - Fundamentos de Biodiseño
 
