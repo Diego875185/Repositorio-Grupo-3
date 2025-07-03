@@ -39,6 +39,16 @@ Se realizó la conexión entre el ESP32 Super Mini C3 y el sensor flex, aseguran
 > *Imagen: Conexión del microcontrolador a la protoboard, estableciendo comunicación con el sensor y otros periféricos.*
 
 ---
+## Manufactura electronica del reloj 
+
+![WhatsApp Image 2025-07-03 at 9 46 55 AM](https://github.com/user-attachments/assets/db3ac998-422a-4c1d-8ed2-4a0ec3f850d2)
+
+Se presenta el sistema electronico del reloj con ESP32, motor de vibrador y batería.
+
+## Ensamblaje del Reloj 
+![WhatsApp Image 2025-07-03 at 9 46 57 AM](https://github.com/user-attachments/assets/5e12d3ac-4b5c-46d2-8c0e-281ad8ccbd0e)
+
+Se presenta el armado del reloj con circuito
 
 ## ✅ Conclusión
 
