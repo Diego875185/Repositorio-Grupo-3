@@ -18,7 +18,7 @@ Durante esta fase se procedió al montaje de la estructura principal impresa en 
 
 ## 🔌 Integración del Módulo Electrónico
 
-La caja impresa en 3D fue diseñada para alojar el módulo electrónico con sus respectivos componentes: ESP32, sensor flex, LED y alimentación por batería. Se optimizó la estructura para facilitar el flujo de cables, mantener orden y permitir revisiones rápidas.
+La caja impresa en 3D fue diseñada para alojar el módulo electrónico con sus respectivos componentes: ESP32, sensor flex y alimentación por batería. Se optimizó la estructura para facilitar el flujo de cables, mantener orden y permitir revisiones rápidas.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/69a7833c-bd1d-468c-bad1-5148d21bb122" alt="Ensamblaje de órtesis" width="500"/>
