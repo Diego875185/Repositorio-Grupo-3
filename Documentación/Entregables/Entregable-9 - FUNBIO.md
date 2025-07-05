@@ -16,36 +16,42 @@
 
 **Componentes Usados:**
 
-1. **ESP32-C3 Super Mini**  
+1. **ESP32-C3 Super Mini**
+   
    ![WhatsApp Image 2025-07-03 at 9 46 27 AM](https://github.com/user-attachments/assets/6e24b73a-dd18-4b81-b0a6-258af01f4b8b)
 
-2. **Sensor Flex 2.2**  
+3. **Sensor Flex 2.2**
+   
    ![WhatsApp Image 2025-07-03 at 9 46 47 AM](https://github.com/user-attachments/assets/8289d805-5f8f-4989-8f4a-1000afa673fb)
 
-3. **Jumper Wire**  
+4. **Jumper Wire**
+   
    ![WhatsApp Image 2025-07-03 at 9 47 06 AM](https://github.com/user-attachments/assets/af5cdceb-f5b7-4512-9f2b-ba7a8eff837a)
 
-4. **Resistencia**  
+5. **Resistencia**
+   
   ![WhatsApp Image 2025-07-03 at 9 47 27 AM](https://github.com/user-attachments/assets/4d94a8ed-bc13-4f0c-84fe-e28332e4616c)
 
-5. **Batería 3.7V**  
+6. **Batería 3.7V**
+   
    ![WhatsApp Image 2025-07-03 at 9 47 45 AM](https://github.com/user-attachments/assets/e7b74b33-79cf-49bd-81fd-5229dedb85ff)
 
-6. **Interruptor**
+7. **Interruptor**
+   
    ![WhatsApp Image 2025-07-03 at 9 48 02 AM](https://github.com/user-attachments/assets/28b0209a-1046-4a5b-b10d-4c97dd0f0ee6)
 
 ---
 
 ## 🧩 Modelado del Prototipo
 
-**Fig. 8 - Órtesis dinámica**  
+**Fig. 7 - Órtesis dinámica**  
    ![WhatsApp Image 2025-07-03 at 9 48 55 AM](https://github.com/user-attachments/assets/33cb45cc-8f86-4848-9da3-5bf6bf3e189c)
 
 ---
 
 ## ⌚ Modelo del WatchAlert
 
-**Fig. 9 - WatchAlert en forma de reloj**  
+**Fig. 8 - WatchAlert en forma de reloj**  
    ![WhatsApp Image 2025-07-03 at 9 49 20 AM](https://github.com/user-attachments/assets/10a97dfa-c3ab-4b83-b267-e61071314a0e)
 
 ---
