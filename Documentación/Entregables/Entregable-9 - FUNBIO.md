@@ -18,32 +18,32 @@
 
 1. **ESP32-C3 Super Mini**  
    <div align="center">
-   <img src="https://github.com/user-attachments/assets/6e24b73a-dd18-4b81-b0a6-258af01f4b8b" width="300"/>
+   <img src="https://github.com/user-attachments/assets/6e24b73a-dd18-4b81-b0a6-258af01f4b8b" width="450"/>
    </div>
 
 2. **Sensor Flex 2.2**  
    <div align="center">
-   <img src="https://github.com/user-attachments/assets/8289d805-5f8f-4989-8f4a-1000afa673fb" width="300"/>
+   <img src="https://github.com/user-attachments/assets/8289d805-5f8f-4989-8f4a-1000afa673fb" width="450"/>
    </div>
 
 3. **Jumper Wire**  
    <div align="center">
-   <img src="https://github.com/user-attachments/assets/af5cdceb-f5b7-4512-9f2b-ba7a8eff837a" width="300"/>
+   <img src="https://github.com/user-attachments/assets/af5cdceb-f5b7-4512-9f2b-ba7a8eff837a" width="450"/>
    </div>
 
 4. **Resistencia**  
    <div align="center">
-   <img src="https://github.com/user-attachments/assets/4d94a8ed-bc13-4f0c-84fe-e28332e4616c" width="300"/>
+   <img src="https://github.com/user-attachments/assets/4d94a8ed-bc13-4f0c-84fe-e28332e4616c" width="450"/>
    </div>
 
 5. **Batería 3.7V**  
    <div align="center">
-   <img src="https://github.com/user-attachments/assets/e7b74b33-79cf-49bd-81fd-5229dedb85ff" width="300"/>
+   <img src="https://github.com/user-attachments/assets/e7b74b33-79cf-49bd-81fd-5229dedb85ff" width="450"/>
    </div>
 
 6. **Interruptor**  
    <div align="center">
-   <img src="https://github.com/user-attachments/assets/28b0209a-1046-4a5b-b10d-4c97dd0f0ee6" width="300"/>
+   <img src="https://github.com/user-attachments/assets/28b0209a-1046-4a5b-b10d-4c97dd0f0ee6" width="450"/>
    </div>
 
 ---
@@ -52,7 +52,7 @@
 
 **Fig. 7 - Órtesis dinámica**  
 <div align="center">
-<img src="https://github.com/user-attachments/assets/33cb45cc-8f86-4848-9da3-5bf6bf3e189c" width="300"/>
+<img src="https://github.com/user-attachments/assets/33cb45cc-8f86-4848-9da3-5bf6bf3e189c" width="450"/>
 </div>
 
 ---
@@ -61,7 +61,7 @@
 
 **Fig. 8 - WatchAlert en forma de reloj**  
 <div align="center">
-<img src="https://github.com/user-attachments/assets/10a97dfa-c3ab-4b83-b267-e61071314a0e" width="300"/>
+<img src="https://github.com/user-attachments/assets/10a97dfa-c3ab-4b83-b267-e61071314a0e" width="450"/>
 </div>
 
 ---
@@ -109,4 +109,3 @@
 1. [Keogh et al., 2021](https://doi.org/10.1186/s12984-021-00931-2)  
 2. [Imatz-Ojanguren et al., 2019](https://journals.sagepub.com/doi/full/10.1177/2055668319862141)  
 3. [Silva et al., 2024](https://www.researchprotocols.org/2024/1/e52365)
-
