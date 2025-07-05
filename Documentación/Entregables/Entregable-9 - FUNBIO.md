@@ -17,39 +17,36 @@
 **Componentes Usados:**
 
 1. **ESP32-C3 Super Mini**  
-   <img src="https://cad.onshape.com/documents/ce81d49bafa29a08250b3f22/w/b03524b973b92b4e490c6ecf/e/e93e635cb1dd3eddc65e96ff" width="400"/>
+   ![WhatsApp Image 2025-07-03 at 9 46 27 AM](https://github.com/user-attachments/assets/6e24b73a-dd18-4b81-b0a6-258af01f4b8b)
 
 2. **Sensor Flex 2.2**  
-   <img src="https://cad.onshape.com/documents/2dc236ed0d6c27e83bf05a2b/w/d6020055e9340973765e3eaf/e/1c950a83be18c610346fe7ef" width="400"/>
+   ![WhatsApp Image 2025-07-03 at 9 46 47 AM](https://github.com/user-attachments/assets/8289d805-5f8f-4989-8f4a-1000afa673fb)
 
 3. **Jumper Wire**  
-   <img src="https://cad.onshape.com/documents/9471d622ad177163d15dabd8/w/df04961174a177b7195e1b82/e/57da9c1b01cedaf2bfabdf5e" width="400"/>
+   ![WhatsApp Image 2025-07-03 at 9 47 06 AM](https://github.com/user-attachments/assets/af5cdceb-f5b7-4512-9f2b-ba7a8eff837a)
 
 4. **Resistencia**  
-   <img src="https://cad.onshape.com/documents/efc89a1b61902efcb28e52aa/w/260c49f4ddafdeba26f59524/e/900798ce3f0f07300defbd3a" width="400"/>
+  ![WhatsApp Image 2025-07-03 at 9 47 27 AM](https://github.com/user-attachments/assets/4d94a8ed-bc13-4f0c-84fe-e28332e4616c)
 
 5. **Batería 3.7V**  
-   <img src="https://cad.onshape.com/documents/17242942676d03fcc4f53d6e/w/8211794d506e266c055f0229/e/5a9f2a83bdee71de8a6b0cde" width="400"/>
+   ![WhatsApp Image 2025-07-03 at 9 47 45 AM](https://github.com/user-attachments/assets/e7b74b33-79cf-49bd-81fd-5229dedb85ff)
 
-6. **Interruptor**  
-   <img src="https://cad.onshape.com/documents/72e807459ca806feacbc4f17/w/5781071d8e1426e0fe261ed9/e/1fb5a2098d9844dcd143726e" width="400"/>
-
-7. **LED**  
-   <img src="https://cad.onshape.com/documents/a4012a020b680eb93a05f0c1/w/d2041a5e80db500b22944d15/e/731c16ba2fb6be4502b85d06" width="400"/>
+6. **Interruptor**
+   ![WhatsApp Image 2025-07-03 at 9 48 02 AM](https://github.com/user-attachments/assets/28b0209a-1046-4a5b-b10d-4c97dd0f0ee6)
 
 ---
 
 ## 🧩 Modelado del Prototipo
 
 **Fig. 8 - Órtesis dinámica**  
-<img src="https://cad.onshape.com/documents/f051126620de193612f471c4/w/55308004334ba31bf2382fe2/e/321ed006cda2a419850bc75a?renderMode=0&uiState=683ddb63ca486b082023ea91" width="500"/>
+   ![WhatsApp Image 2025-07-03 at 9 48 55 AM](https://github.com/user-attachments/assets/33cb45cc-8f86-4848-9da3-5bf6bf3e189c)
 
 ---
 
 ## ⌚ Modelo del WatchAlert
 
 **Fig. 9 - WatchAlert en forma de reloj**  
-<img src="https://cad.onshape.com/documents/ab31689341fb72e4154ab67a/w/2cf3c34a11abee303cea4875/e/86beb529f6074bffb18a2cc3?renderMode=0&uiState=683e58164680f36df83b018b" width="500"/>
+   ![WhatsApp Image 2025-07-03 at 9 49 20 AM](https://github.com/user-attachments/assets/10a97dfa-c3ab-4b83-b267-e61071314a0e)
 
 ---
 
